@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JunglePresentation", "Jungle_Presentation\JunglePresentation.csproj", "{8A1DF8C3-FD22-4661-BD83-93C5DC45FCB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JunglePresentation_Cross_Section", "JunglePresentation_Cross_Section\JunglePresentation_Cross_Section.csproj", "{AE503DB1-22FD-41EA-82F2-BAA6AC6CD506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1DF8C3-FD22-4661-BD83-93C5DC45FCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1DF8C3-FD22-4661-BD83-93C5DC45FCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1DF8C3-FD22-4661-BD83-93C5DC45FCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1DF8C3-FD22-4661-BD83-93C5DC45FCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE503DB1-22FD-41EA-82F2-BAA6AC6CD506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE503DB1-22FD-41EA-82F2-BAA6AC6CD506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE503DB1-22FD-41EA-82F2-BAA6AC6CD506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE503DB1-22FD-41EA-82F2-BAA6AC6CD506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9E0D67-F1A4-42EA-BF26-778119971216}
+	EndGlobalSection
+EndGlobal
